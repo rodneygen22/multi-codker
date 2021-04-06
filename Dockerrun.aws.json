@@ -24,7 +24,7 @@
         },
         {
             "name": "nginx",
-            "image": "castergen/multi-nginx",
+            "image": "castergen22/multi-nginx",
             "hostname": "nginx",
             "essential": true,
             "portMappings": [
